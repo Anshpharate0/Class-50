@@ -1,0 +1,39 @@
+       h1{
+           color:red;
+       }
+       .apple{
+           background-color:aquamarine;
+           display:flex;
+           justify-content:space-between;
+       }
+
+       .orange{
+           color:white;
+           background-color: blueviolet;
+           display:flex;
+           flex-direction: column;
+           justify-content: first baseline;
+       }
+       .banana{
+           display:flex;
+           justify-content: flex-start;
+       }
+       .bird{
+           display:flex;
+           flex-wrap: wrap;
+           justify-content: space-around;
+       }
+       .tiger{
+           display:flex;
+           flex-wrap: wrap;
+           justify-content: space-between;
+       }
+       .lion{
+           display:flex;
+           flex-wrap: wrap;
+           justify-content: space-between;
+       }
+       h2,p2{
+           text-align: center;
+           color: whitesmoke;
+       }
